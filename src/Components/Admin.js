@@ -1,8 +1,6 @@
 import React from "react";
-import Background from "./Background";
-import MenuAdmin from "./Admin/MenuAdmin";
-import AdminMain from "./Admin/AdminMain";
-import Cookies from "universal-cookie";
+import MenuAdmin from "./Admin/MenuAdmin"
+import AdminMain from "./Admin/AdminMain"
 
 const Admin = () => {
     return(
