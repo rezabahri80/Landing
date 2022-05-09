@@ -7,7 +7,6 @@ import Cookies from "universal-cookie";
 const Admin = () => {
     return(
         <>
-            {/* Back ground */}
             <Background />
 
             <MenuAdmin />
